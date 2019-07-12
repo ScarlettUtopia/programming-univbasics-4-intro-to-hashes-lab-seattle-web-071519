@@ -1,4 +1,4 @@
-filter_parameter_loggingdef new_hash
+def new_hash
   # return an empty hash
 end
 
