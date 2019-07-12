@@ -1,5 +1,5 @@
 def new_hash
-  (new_hash).to eq({})
+  new_hash = {}
 end
 
 def my_hash
